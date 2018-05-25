@@ -1,2 +1,2 @@
-# REST_WebService
-REST WebServices Demo Projects
+# WebServices
+REST & SOAP WebServices Demo Projects
